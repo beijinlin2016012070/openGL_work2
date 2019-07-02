@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1557193074 source:d:\_codeblocksproject\mywork2016012070\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1561996144 source:d:\_codeblocksproject\mywork2016012070\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<shader_m.h>
+	<iostream>
+
+1561859723 d:\_codeblocksproject\mywork2016012070\\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1561990477 d:\_codeblocksproject\mywork2016012070\\shader_m.h
+	<glad/glad.h>
+	<glm/glm.hpp>
+	<string>
+	<fstream>
+	<sstream>
+	<iostream>
+
